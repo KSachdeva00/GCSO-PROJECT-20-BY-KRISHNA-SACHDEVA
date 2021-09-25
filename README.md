@@ -1,1 +1,2 @@
-# GCSO-PROJECT-20-BY-KRISHNA-SACHDEVA
+# p5.play-boilerplate
+Boiler plate for p5.play
